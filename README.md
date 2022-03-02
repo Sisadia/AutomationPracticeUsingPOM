@@ -49,4 +49,4 @@
 7. Review Shipping details and checked Terms of service then click on Proceed To Checkout button again.
 8. Scroll to Payment option and click on Pay By check.
 9. Click on confirm My Order Button to complete the checkout process
-10. Click on Sign Out Button
+10.Click on Sign Out Button
